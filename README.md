@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Python, NumPy, Pandas, Machine Learning**
 
-- 📫 How to reach me: **shravanpandey4598@gmail.com**
+- 📫 How to reach me: **shravankumarpandey825412@gmail.com**
 
 - 📄 Know about my experiences [Resume (Link to your resume if hosted)]()
 
