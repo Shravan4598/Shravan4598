@@ -1,16 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shravan Kumar Pandey</h1>
 <h3 align="center">A passionate Data Science enthusiast from India</h3>
 
-<h1 align="center">✨ Shravan Kumar Pandey ✨</h1>
-
-<p align="center">
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/Shravan4598/Shravan4598/main/your-animated-image.gif" 
-         alt="Shravan Kumar Pandey" 
-         width="600">
-  </a>
-</p>
-
 
 <h1 align="center">✨ Shravan Kumar Pandey ✨</h1>
 
@@ -107,4 +97,4 @@
 ---
 
 ✨ _“Let's build something meaningful with data!”_ ✨
-<img src="https://raw.githubusercontent.com/Shravan4598/Shravan4598/main/your-animated-image.gif" alt="Shravan Kumar Pandey" width="600">
+
