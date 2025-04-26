@@ -1,6 +1,25 @@
 <h1 align="center">Hi 👋, I'm Shravan Kumar Pandey</h1>
 <h3 align="center">A passionate Data Science enthusiast from India</h3>
 
+<h1 align="center">✨ Shravan Kumar Pandey ✨</h1>
+
+<p align="center">
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/Shravan4598/Shravan4598/main/Designed%20Name.png" alt="Shravan Kumar Pandey" width="600" style="border-radius: 15px; box-shadow: 0 0 20px #00f2ff; animation: float 3s ease-in-out infinite; transition: transform 0.3s;">
+  </a>
+</p>
+
+<!-- Floating Animation -->
+<img src="" style="display:none;">
+<style>
+@keyframes float {
+  0% { transform: translateY(0px); }
+  50% { transform: translateY(-10px); }
+  100% { transform: translateY(0px); }
+}
+</style>
+
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=shravan4598&label=Profile%20views&color=0e75b6&style=flat" alt="shravan4598" />
 </p>
