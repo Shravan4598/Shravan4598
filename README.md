@@ -56,9 +56,8 @@
   *Instructors:* Krish Naik, KRISHAI Technologies Private Limited  
   *Duration:* 99 Hours  
   *Date of Completion:* April 11, 2025
+[![Udemy Certified](https://img.shields.io/badge/Udemy-Complete_Data_Science_Bootcamp-green)](https://ude.my/UC-c2e77a53-0576-41d4-815b-89df85e1eef6)
 
-<h3>📊 GitHub Stats:</h3>
-<!-- your GitHub stats here -->
 
 ---
 ✨ _“Let's build something meaningful with data!”_ ✨
