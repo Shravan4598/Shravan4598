@@ -1,26 +1,114 @@
 <h1 align="center">Hi 👋, I'm Shravan Kumar Pandey</h1>
 <h3 align="center">A passionate Data Science enthusiast from India</h3>
 
-
-<h1 align="center">✨ Shravan Kumar Pandey ✨</h1>
+<h1 align="center"> Code Connected... <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="35" height="35" /><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="65" alt="Animated hello Gif"></h1>
 
 <p align="center">
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/Shravan4598/Shravan4598/main/Designed%20Name.png" 
-         alt="Shravan Kumar Pandey" 
-         width="600" 
-         style="border-radius: 15px; box-shadow: 0 0 20px #00f2ff; animation: float 3s ease-in-out infinite;">
-  </a>
+  <a href = "https://madhurimarawat.github.io/NameBlock-Designer/"><img src = "https://github.com/madhurimarawat/Portfolio-Website/blob/main/images/Designed%20Name.png" title = "NameBlock" alt = "NameBlock"></a>
 </p>
 
-<!-- Floating Animation -->
-<style>
-@keyframes float {
-  0% { transform: translateY(0px); }
-  50% { transform: translateY(-10px); }
-  100% { transform: translateY(0px); }
-}
-</style>
+<p align="center">
+    <a href="https://raw.githubusercontent.com/madhurimarawat/Badger-Icons/main/assets/job_roles/data_scientist/concept-icon-3-transparent.png" target="_blank">
+        <img src="https://raw.githubusercontent.com/madhurimarawat/Badger-Icons/main/assets/job_roles/data_scientist/concept-icon-3-transparent.png" title="Transparent Icon for Data Scientist (Badger-Icons)" alt="concept-icon-3-transparent.png" width="300" height="300">
+    </a>
+    <img src="https://github.com/madhurimarawat/madhurimarawat/assets/105432776/1b711871-eb4d-4c0a-8f9a-fc1ef55615c0" height=250 width=250 title="Male programmer Illustration Gif" alt="Male programmer Illustration Gif" >
+</p>
+
+<p align="center">
+    <a href="https://www.linkedin.com/in/shravan-kumar-pandey-309786309/"><img
+            src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" title="LinkedIn Profile"
+            height=35 alt="LinkedIN"></a>
+    <a href="https://leetcode.com/u/shravankumarpandey/"><img
+            src="https://raw.githubusercontent.com/Shravan4598/Weather-Dashboard/main/assets/leetcode-logo.png" title="LeetCode Profile"
+            height=35 alt="LeetCode"></a>
+    <a href="https://github.com/Shravan4598"><img
+            src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" height=35
+            title="Github Profile" alt="Github"></a>
+</p>
+
+### 👨‍💻 About Me :
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Data+Science+Enthusiast+🇮🇳)](https://git.io/typing-svg)
+
+- 👋 I’m Shravan Kumar Pandey :student:<br><br>
+- 👀 I’m deeply interested in the world of data science and its applications.<br><br>
+<img src="https://cdn.dribbble.com/users/107759/screenshots/2835499/data_love.gif" height = 100><br>
+- 🌱 Currently exploring and learning various aspects of data science.<br><br>
+- 🐍 Proficient in Python <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="python language" width="35" height="35"><br><br>
+- 💬 Ask me about data analysis and machine learning concepts! 😀<br><br>
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-shravan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shravan-kumar-pandey-309786309/)
+<a href ="mailto:"><img src="https://github.com/madhurimarawat/Machine-Learning-Using-Python/assets/105432776/b6a0873a-e961-42c0-8fbf-ab65828c961a" height=35 width=30 title="Mail Illustration" alt="Mail Illustration📫" > </a><br><br>
+- 😄 Pronouns: He/Him.<br><br>
+- ⚡ Fun fact: I enjoy problem-solving and exploring new datasets in my free time! <br><br>
+- 💡 Always open to discussing new ideas and collaborations in the data science domain! 📊✨
+
+<details open>
+<summary><h2> 🛠  Languages and Tools :</h2></summary>
+<br>
+Click on the icon to see the associated repository (if available)
+<br>
+
+### 📚  Languages :
+<br>
+
+<p>
+    <a href="https://github.com/Shravan4598"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"></a>
+</p>
+
+### 📑  Frameworks & Libraries :
+<br>
+
+<p>
+    <a href="https://github.com/Shravan4598"><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="40" height="40"></a>
+    <a href="https://github.com/Shravan4598"><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"></a>
+    <a href="https://github.com/Shravan4598"><img src="https://github.com/madhurimarawat/madhurimarawat/assets/105432776/ec9a7987-9e5a-40ec-a806-66cdf2a9235d" title="Matplotlib" alt="Matplotlib" width="40" height="40"></a>
+    <a href="https://github.com/Shravan4598"><img src="https://user-images.githubusercontent.com/315810/92254613-279c8000-ee9f-11ea-9b73-5622a7d95f3f.png" title="Seaborn" alt="Seaborn" width="40" height="40"></a>
+    <a href="https://github.com/Shravan4598"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" title="Scikit-learn" alt="Scikit-learn" width="40" height="40"></a>
+</p>
+
+### 💻  Databases :
+<br>
+
+<p>
+    <a href="https://github.com/Shravan4598"><img src="https://raw.githubusercontent.com/madhurimarawat/Badger-Icons/main/assets/databases/mysql/concept-logo-1-transparent.png" title="MySQL" alt="MySQL" width="40" height="40"> </a>
+    <a href="https://github.com/Shravan4598"><img src="https://raw.githubusercontent.com/Shravan4598/Weather-Dashboard/main/assets/mongodb-logo.png" title="MongoDB" alt="MongoDB" width="40" height="40"> </a>
+</p>
+
+### 🌟   Tools and Technologies :
+<br>
+
+<p>
+    <a href="https://github.com/Shravan4598"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"></a>
+    <a href="https://github.com/Shravan4598"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"></a>
+    <a href="https://github.com/Shravan4598"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"></a>
+    <a href="https://github.com/Shravan4598"><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter Notebook" alt="Jupyter Notebook" width="40" height="40"> </a>
+</p>
+
+</details>
+
+<details open>
+<summary> <h2> 📎📚   Projects :</h2></summary>
+<br>
+<p>Click on the thumbnail to See the Repository</p> <br>
+
+<table style="width: 100%;">
+    <tr>
+        <th style="width: 20%;">Feature ⚙️</th>
+        <th style="width: 80%;">Weather Dashboard ☀️</th>
+    </tr>
+    <tr>
+        <td style="width: 20%;"><strong>Preview</strong> 👁️</td>
+        <td style="width: 80%;">
+            <a href="https://github.com/Shravan4598/Weather-Dashboard/tree/main"><img src="https://github.com/Shravan4598/Weather-Dashboard/blob/main/assets/weather_dashboard_preview.png?raw=true" width="400" alt="Weather Dashboard" title="Weather Dashboard"></a>
+            <br>
+            A simple and interactive weather dashboard built using Python to fetch and display current weather information.
+            <br>
+            🔗 Repository: <a href="https://github.com/Shravan4598/Weather-Dashboard/tree/main">https://github.com/Shravan4598/Weather-Dashboard/tree/main</a>
+        </td>
+    </tr>
+</table>
+
+</details>
 
 
 
