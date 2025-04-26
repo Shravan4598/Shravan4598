@@ -5,9 +5,12 @@
 
 <p align="center">
   <a href="#">
-    <img src="https://raw.githubusercontent.com/Shravan4598/Shravan4598/main/Designed%20Name.png" alt="Shravan Kumar Pandey" width="600" style="border-radius: 15px; box-shadow: 0 0 20px #00f2ff; animation: float 3s ease-in-out infinite; transition: transform 0.3s;">
+    <img src="https://raw.githubusercontent.com/Shravan4598/Shravan4598/main/your-animated-image.gif" 
+         alt="Shravan Kumar Pandey" 
+         width="600">
   </a>
 </p>
+
 
 <h1 align="center">✨ Shravan Kumar Pandey ✨</h1>
 
