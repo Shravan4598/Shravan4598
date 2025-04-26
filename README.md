@@ -35,7 +35,13 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" width="40" height="40"/> </a> 
 </p>
+<h3 align="left">📜 Certifications:</h3>
 
+- 🎓 [Complete Data Science, Machine Learning, DL, NLP Bootcamp (Udemy)](https://ude.my/UC-c2e77a53-0576-41d4-815b-89df85e1eef6)  
+  *Instructors:* Krish Naik, KRISHAI Technologies Private Limited  
+  *Duration:* 99 Hours  
+  *Date of Completion:* April 11, 2025
+[![Udemy Certified](https://img.shields.io/badge/Udemy-Complete_Data_Science_Bootcamp-green)](https://ude.my/UC-c2e77a53-0576-41d4-815b-89df85e1eef6)
 <h3>📊 GitHub Stats:</h3>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=shravan4598&show_icons=true&locale=en" alt="shravan4598" />
@@ -44,21 +50,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shravan4598&" alt="shravan4598" /></p>
 
 ---
-<h3 align="left">Connect with me:</h3>
-<!-- your connection icons here -->
-
-<h3 align="left">Languages and Tools:</h3>
-<!-- your tools icons here -->
-
-<h3 align="left">📜 Certifications:</h3>
-
-- 🎓 [Complete Data Science, Machine Learning, DL, NLP Bootcamp (Udemy)](https://ude.my/UC-c2e77a53-0576-41d4-815b-89df85e1eef6)  
-  *Instructors:* Krish Naik, KRISHAI Technologies Private Limited  
-  *Duration:* 99 Hours  
-  *Date of Completion:* April 11, 2025
-[![Udemy Certified](https://img.shields.io/badge/Udemy-Complete_Data_Science_Bootcamp-green)](https://ude.my/UC-c2e77a53-0576-41d4-815b-89df85e1eef6)
-
-
 ---
 ✨ _“Let's build something meaningful with data!”_ ✨
 
