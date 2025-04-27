@@ -118,10 +118,33 @@ Click on the icon to see the associated repository (if available)
 
 - 📫 Reach me at: **shravankumarpandey825412@gmail.com**
 
-- 📜 **Recent Achievement:**  
-  Successfully completed the  
-  **"Complete Data Science, Machine Learning, Deep Learning, and NLP Bootcamp"** by **Krish Naik**  
-  [View Certificate](https://ude.my/UC-c2e77a53-0576-41d4-815b-89df85e1eef6)
+## 👋 Hi, I'm Shravan Kumar Pandey!
+
+![Name Block](https://github.com/your-username/your-repo-name/blob/main/SHRAVAN%20KUMAR%20PANDEY_NameBlock.png)
+
+---
+
+## 🎓 Certification
+
+
+**Certificate Name:**  
+`Complete Data Science, Machine Learning, DL, NLP Bootcamp`
+
+**Certificate ID:**  
+`UC-c2e77a53-0576-41d4-815b-89df85e1eef6`
+
+**Certificate URL:**  
+🔗 [View Certificate Here](https://ude.my/UC-c2e77a53-0576-41d4-815b-89df85e1eef6)
+
+**Instructor(s):**  
+`Krish Naik, KRISHAI Technologies Private Limited`
+
+**Reference Number:**  
+`0004`
+
+---
+
+
 
 - ⚡ Fun fact: **I love turning data into stories! 📊**
 
