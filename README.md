@@ -11,7 +11,8 @@
     <a href="https://raw.githubusercontent.com/madhurimarawat/Badger-Icons/main/assets/job_roles/data_scientist/concept-icon-3-transparent.png" target="_blank">
         <img src="https://raw.githubusercontent.com/madhurimarawat/Badger-Icons/main/assets/job_roles/data_scientist/concept-icon-3-transparent.png" title="Transparent Icon for Data Scientist (Badger-Icons)" alt="concept-icon-3-transparent.png" width="300" height="300">
     </a>
-    <img src="https://github.com/madhurimarawat/madhurimarawat/assets/105432776/1b711871-eb4d-4c0a-8f9a-fc1ef55615c0" height=250 width=250 title="Male programmer Illustration Gif" alt="Male programmer Illustration Gif" >
+ <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/main/dino.gif" height="250" width="250" title="Professional Male Programmer" alt="Professional Male Programmer">
+
 </p>
 
 
