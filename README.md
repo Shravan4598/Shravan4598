@@ -172,6 +172,12 @@ Click on the icon to see the associated repository (if available)
 
 ---
 
+## 🧮 My LeetCode Stats:
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/shravankumarpandey?theme=dark&font=Baloo&ext=contest)](https://leetcode.com/u/shravankumarpandey/)
+
+---
+
 ## 📊 GitHub Stats:
 
 <p align="left">
