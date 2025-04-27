@@ -14,17 +14,7 @@
     <img src="https://github.com/madhurimarawat/madhurimarawat/assets/105432776/1b711871-eb4d-4c0a-8f9a-fc1ef55615c0" height=250 width=250 title="Male programmer Illustration Gif" alt="Male programmer Illustration Gif" >
 </p>
 
-<p align="center">
-    <a href="https://www.linkedin.com/in/shravan-kumar-pandey-309786309/"><img
-            src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" title="LinkedIn Profile"
-            height=35 alt="LinkedIN"></a>
-    <a href="https://leetcode.com/u/shravankumarpandey/"><img
-            src="https://raw.githubusercontent.com/Shravan4598/Weather-Dashboard/main/assets/leetcode-logo.png" title="LeetCode Profile"
-            height=35 alt="LeetCode"></a>
-    <a href="https://github.com/Shravan4598"><img
-            src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" height=35
-            title="Github Profile" alt="Github"></a>
-</p>
+
 
 ### 👨‍💻 About Me :
 
