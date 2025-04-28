@@ -119,9 +119,6 @@ Click on the icon to see the associated repository (if available)
 
 - 📫 Reach me at: **shravankumarpandey825412@gmail.com**
 
-## 👋 Hi, I'm Shravan Kumar Pandey!
-
-![Name Block](https://github.com/your-username/your-repo-name/blob/main/SHRAVAN%20KUMAR%20PANDEY_NameBlock.png)
 
 ---
 
