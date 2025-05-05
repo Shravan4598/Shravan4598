@@ -77,8 +77,9 @@ Click on the icon to see the associated repository (if available)
 
 </details>
 
-<details open>
-<summary> <h2> 📎📚   Projects :</h2></summary>
+
+         <details open>
+<summary> <h2> 📎📚  Projects :</h2></summary>
 <br>
 <p>Click on the thumbnail to See the Repository</p> <br>
 
@@ -99,9 +100,26 @@ Click on the icon to see the associated repository (if available)
     </tr>
 </table>
 
+<br>
+
+<table style="width: 100%;">
+    <tr>
+        <th style="width: 20%;">Feature ⚙️</th>
+        <th style="width: 80%;">Iris Species Predictor 🌸</th>
+    </tr>
+    <tr>
+        <td style="width: 20%;"><strong>Preview</strong> 👁️</td>
+        <td style="width: 80%;">
+            <a href="https://github.com/Shravan4598/Iris_Species_Predictor"><img src="https://github.com/Shravan4598/Iris_Species_Predictor/blob/main/iris_flower_prediction.png?raw=true" width="400" alt="Iris Species Predictor" title="Iris Species Predictor"></a>
+            <br>
+            A machine learning project to predict the species of Iris flowers based on their features.
+            <br>
+            🔗 Repository: <a href="https://github.com/Shravan4598/Iris_Species_Predictor">https://github.com/Shravan4598/Iris_Species_Predictor</a>
+        </td>
+    </tr>
+</table>
+
 </details>
-
-
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=shravan4598&label=Profile%20views&color=0e75b6&style=flat" alt="shravan4598" />
