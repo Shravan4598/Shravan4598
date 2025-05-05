@@ -78,7 +78,7 @@ Click on the icon to see the associated repository (if available)
 </details>
 
 
-         <details open>
+         
 <summary> <h2> 📎📚  Projects :</h2></summary>
 <br>
 <p>Click on the thumbnail to See the Repository</p> <br>
