@@ -229,4 +229,4 @@ Click on the icon to see the associated repository (if available)
 </p>
 
 <p align="center">
-  <img src="https://github-
+  <img src="https://github-readme-streak-stats.herokuapp.com
