@@ -43,42 +43,42 @@ Click on the icon to see the associated repository (if available)
 <br>
 
 <p>
-  <a href="https://github.com/Shravan4598"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"></a>
+    <a href="https://github.com/Shravan4598"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"></a>
 </p>
 
 ### 📑  Frameworks & Libraries :
 <br>
 
 <p>
-  <a href="https://github.com/Shravan4598"><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="40" height="40"></a>
-  <a href="https://github.com/Shravan4598"><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"></a>
-  <a href="https://github.com/Shravan4598"><img src="https://github.com/madhurimarawat/madhurimarawat/assets/105432776/ec9a7987-9e5a-40ec-a806-66cdf2a9235d" title="Matplotlib" alt="Matplotlib" width="40" height="40"></a>
-  <a href="https://github.com/Shravan4598"><img src="https://user-images.githubusercontent.com/315810/92254613-279c8000-ee9f-11ea-9b73-5622a7d95f3f.png" title="Seaborn" alt="Seaborn" width="40" height="40"></a>
-  <a href="https://github.com/Shravan4598"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" title="Scikit-learn" alt="Scikit-learn" width="40" height="40"></a>
+    <a href="https://github.com/Shravan4598"><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="40" height="40"></a>
+    <a href="https://github.com/Shravan4598"><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"></a>
+    <a href="https://github.com/Shravan4598"><img src="https://github.com/madhurimarawat/madhurimarawat/assets/105432776/ec9a7987-9e5a-40ec-a806-66cdf2a9235d" title="Matplotlib" alt="Matplotlib" width="40" height="40"></a>
+    <a href="https://github.com/Shravan4598"><img src="https://user-images.githubusercontent.com/315810/92254613-279c8000-ee9f-11ea-9b73-5622a7d95f3f.png" title="Seaborn" alt="Seaborn" width="40" height="40"></a>
+    <a href="https://github.com/Shravan4598"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" title="Scikit-learn" alt="Scikit-learn" width="40" height="40"></a>
 </p>
 
 ### 💻  Databases :
 <br>
 
 <p>
-  <a href="https://github.com/Shravan4598"><img src="https://raw.githubusercontent.com/madhurimarawat/Badger-Icons/main/assets/databases/mysql/concept-logo-1-transparent.png" title="MySQL" alt="MySQL" width="40" height="40"> </a>
-  <a href="https://github.com/Shravan4598"><img src="https://raw.githubusercontent.com/Shravan4598/Weather-Dashboard/main/assets/mongodb-logo.png" title="MongoDB" alt="MongoDB" width="40" height="40"> </a>
+    <a href="https://github.com/Shravan4598"><img src="https://raw.githubusercontent.com/madhurimarawat/Badger-Icons/main/assets/databases/mysql/concept-logo-1-transparent.png" title="MySQL" alt="MySQL" width="40" height="40"> </a>
+    <a href="https://github.com/Shravan4598"><img src="https://raw.githubusercontent.com/Shravan4598/Weather-Dashboard/main/assets/mongodb-logo.png" title="MongoDB" alt="MongoDB" width="40" height="40"> </a>
 </p>
 
 ### 🌟   Tools and Technologies :
 <br>
 
 <p>
-  <a href="https://github.com/Shravan4598"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"></a>
-  <a href="https://github.com/Shravan4598"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"></a>
-  <a href="https://github.com/Shravan4598"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"></a>
-  <a href="https://github.com/Shravan4598"><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter Notebook" alt="Jupyter Notebook" width="40" height="40"> </a>
+    <a href="https://github.com/Shravan4598"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"></a>
+    <a href="https://github.com/Shravan4598"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"></a>
+    <a href="https://github.com/Shravan4598"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"></a>
+    <a href="https://github.com/Shravan4598"><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter Notebook" alt="Jupyter Notebook" width="40" height="40"> </a>
 </p>
 
 </details>
 
 
-
+        
 <details>
 <summary> <h2> 📎📚  Projects :</h2></summary>
 <br>
@@ -229,9 +229,4 @@ Click on the icon to see the associated repository (if available)
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shravan4598&" alt="shravan4598" />
-</p>
-
----
-
-✨ _“Let's build something meaningful with data!”_ ✨
+  <img src="https://github-
