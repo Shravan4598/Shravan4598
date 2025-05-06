@@ -11,7 +11,7 @@
     <a href="https://raw.githubusercontent.com/madhurimarawat/Badger-Icons/main/assets/job_roles/data_scientist/concept-icon-3-transparent.png" target="_blank">
         <img src="https://raw.githubusercontent.com/madhurimarawat/Badger-Icons/main/assets/job_roles/data_scientist/concept-icon-3-transparent.png" title="Transparent Icon for Data Scientist (Badger-Icons)" alt="concept-icon-3-transparent.png" width="300" height="300">
     </a>
- <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/main/dino.gif" height="250" width="250" title="Professional Male Programmer" alt="Professional Male Programmer">
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/main/dino.gif" height="250" width="250" title="Professional Male Programmer" alt="Professional Male Programmer">
 
 </p>
 
@@ -34,51 +34,52 @@
 - 💡 Always open to discussing new ideas and collaborations in the data science domain! 📊✨
 
 <details open>
-<summary><h2> 🛠  Languages and Tools :</h2></summary>
+<summary><h2> 🛠  Languages and Tools :</h2></summary>
 <br>
 Click on the icon to see the associated repository (if available)
 <br>
 
-### 📚  Languages :
+### 📚  Languages :
 <br>
 
 <p>
-    <a href="https://github.com/Shravan4598"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"></a>
+  <a href="https://github.com/Shravan4598"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"></a>
 </p>
 
-### 📑  Frameworks & Libraries :
+### 📑  Frameworks & Libraries :
 <br>
 
 <p>
-    <a href="https://github.com/Shravan4598"><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="40" height="40"></a>
-    <a href="https://github.com/Shravan4598"><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"></a>
-    <a href="https://github.com/Shravan4598"><img src="https://github.com/madhurimarawat/madhurimarawat/assets/105432776/ec9a7987-9e5a-40ec-a806-66cdf2a9235d" title="Matplotlib" alt="Matplotlib" width="40" height="40"></a>
-    <a href="https://github.com/Shravan4598"><img src="https://user-images.githubusercontent.com/315810/92254613-279c8000-ee9f-11ea-9b73-5622a7d95f3f.png" title="Seaborn" alt="Seaborn" width="40" height="40"></a>
-    <a href="https://github.com/Shravan4598"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" title="Scikit-learn" alt="Scikit-learn" width="40" height="40"></a>
+  <a href="https://github.com/Shravan4598"><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="40" height="40"></a>
+  <a href="https://github.com/Shravan4598"><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"></a>
+  <a href="https://github.com/Shravan4598"><img src="https://github.com/madhurimarawat/madhurimarawat/assets/105432776/ec9a7987-9e5a-40ec-a806-66cdf2a9235d" title="Matplotlib" alt="Matplotlib" width="40" height="40"></a>
+  <a href="https://github.com/Shravan4598"><img src="https://user-images.githubusercontent.com/315810/92254613-279c8000-ee9f-11ea-9b73-5622a7d95f3f.png" title="Seaborn" alt="Seaborn" width="40" height="40"></a>
+  <a href="https://github.com/Shravan4598"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" title="Scikit-learn" alt="Scikit-learn" width="40" height="40"></a>
 </p>
 
-### 💻  Databases :
+### 💻  Databases :
 <br>
 
 <p>
-    <a href="https://github.com/Shravan4598"><img src="https://raw.githubusercontent.com/madhurimarawat/Badger-Icons/main/assets/databases/mysql/concept-logo-1-transparent.png" title="MySQL" alt="MySQL" width="40" height="40"> </a>
-    <a href="https://github.com/Shravan4598"><img src="https://raw.githubusercontent.com/Shravan4598/Weather-Dashboard/main/assets/mongodb-logo.png" title="MongoDB" alt="MongoDB" width="40" height="40"> </a>
+  <a href="https://github.com/Shravan4598"><img src="https://raw.githubusercontent.com/madhurimarawat/Badger-Icons/main/assets/databases/mysql/concept-logo-1-transparent.png" title="MySQL" alt="MySQL" width="40" height="40"> </a>
+  <a href="https://github.com/Shravan4598"><img src="https://raw.githubusercontent.com/Shravan4598/Weather-Dashboard/main/assets/mongodb-logo.png" title="MongoDB" alt="MongoDB" width="40" height="40"> </a>
 </p>
 
-### 🌟   Tools and Technologies :
+### 🌟   Tools and Technologies :
 <br>
 
 <p>
-    <a href="https://github.com/Shravan4598"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"></a>
-    <a href="https://github.com/Shravan4598"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"></a>
-    <a href="https://github.com/Shravan4598"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"></a>
-    <a href="https://github.com/Shravan4598"><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter Notebook" alt="Jupyter Notebook" width="40" height="40"> </a>
+  <a href="https://github.com/Shravan4598"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"></a>
+  <a href="https://github.com/Shravan4598"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"></a>
+  <a href="https://github.com/Shravan4598"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"></a>
+  <a href="https://github.com/Shravan4598"><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter Notebook" alt="Jupyter Notebook" width="40" height="40"> </a>
 </p>
 
 </details>
 
 
-         
+
+<details>
 <summary> <h2> 📎📚  Projects :</h2></summary>
 <br>
 <p>Click on the thumbnail to See the Repository</p> <br>
@@ -119,6 +120,25 @@ Click on the icon to see the associated repository (if available)
     </tr>
 </table>
 
+<br>
+
+<table style="width: 100%;">
+    <tr>
+        <th style="width: 20%;">Feature ⚙️</th>
+        <th style="width: 80%;">Sales Prediction App 📈</th>
+    </tr>
+    <tr>
+        <td style="width: 20%;"><strong>Preview</strong> 👁️</td>
+        <td style="width: 80%;">
+            <a href="https://github.com/Shravan4598/Sales_Prediction_App/tree/main"><img src="https://github.com/Shravan4598/Sales_Prediction_App/blob/main/sales_prediction_app_preview.png?raw=true" width="400" alt="Sales Prediction App" title="Sales Prediction App"></a>
+            <br>
+            A web application built with Streamlit to predict sales based on various features.
+            <br>
+            🔗 Repository: <a href="https://github.com/Shravan4598/Sales_Prediction_App/tree/main">https://github.com/Shravan4598/Sales_Prediction_App/tree/main</a>
+        </td>
+    </tr>
+</table>
+
 </details>
 
 <p align="left">
@@ -143,20 +163,15 @@ Click on the icon to see the associated repository (if available)
 ## 🎓 Certification
 
 
-**Certificate Name:**  
-`Complete Data Science, Machine Learning, DL, NLP Bootcamp`
+**Certificate Name:** `Complete Data Science, Machine Learning, DL, NLP Bootcamp`
 
-**Certificate ID:**  
-`UC-c2e77a53-0576-41d4-815b-89df85e1eef6`
+**Certificate ID:** `UC-c2e77a53-0576-41d4-815b-89df85e1eef6`
 
-**Certificate URL:**  
-🔗 [View Certificate Here](https://ude.my/UC-c2e77a53-0576-41d4-815b-89df85e1eef6)
+**Certificate URL:** 🔗 [View Certificate Here](https://ude.my/UC-c2e77a53-0576-41d4-815b-89df85e1eef6)
 
-**Instructor(s):**  
-`Krish Naik, KRISHAI Technologies Private Limited`
+**Instructor(s):** `Krish Naik, KRISHAI Technologies Private Limited`
 
-**Reference Number:**  
-`0004`
+**Reference Number:** `0004`
 
 ---
 
@@ -220,4 +235,3 @@ Click on the icon to see the associated repository (if available)
 ---
 
 ✨ _“Let's build something meaningful with data!”_ ✨
-
