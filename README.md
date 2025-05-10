@@ -178,6 +178,8 @@ Click on the icon to see the associated repository (if available)
 
 
 - ⚡ Fun fact: **I love turning data into stories! 📊**
+- ⚡ Fun fact: **Data Never Lies! 📊**
+
 
 ---
 
