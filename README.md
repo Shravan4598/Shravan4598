@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/madhurimarawat/Badger-Icons/main/assets/job_roles/data_scientist/concept-icon-3-transparent.png" title="Data Scientist" alt="Data Scientist Icon" width="150" height="150">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Data Scientist" width="150" height="150" />
   <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/main/dino.gif" height="150" width="150" title="Dino" alt="Dino">
 </p>
 
@@ -91,10 +91,11 @@
 ## 🤖 Machine Learning & NLP
 
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Artificial_intelligence_logo.svg" width="45" title="AI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45" title="TensorFlow"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45" title="PyTorch"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="45" title="Keras"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="45" title="OpenCV"/>
 </p>
-
----
 
 ## 🗄 Databases
 
