@@ -17,210 +17,179 @@
 
 
 
-### 👨‍💻 About Me :
+<h1 align="center">Hi 👋, I'm Shravan Kumar Pandey</h1>
+<h3 align="center">Data Science Enthusiast | B.Tech (Hons.) Data Science Student 🇮🇳</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Data+Science+Enthusiast+🇮🇳)](https://git.io/typing-svg)
-
-- 👋 I’m Shravan Kumar Pandey :student:<br><br>
-- 👀 I’m deeply interested in the world of data science and its applications.<br><br>
-<img src="https://cdn.dribbble.com/users/107759/screenshots/2835499/data_love.gif" height = 100><br>
-- 🌱 Currently exploring and learning various aspects of data science.<br><br>
-- 🐍 Proficient in Python <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="python language" width="35" height="35"><br><br>
-- 💬 Ask me about data analysis and machine learning concepts! 😀<br><br>
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-shravan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shravan-kumar-pandey-309786309/)
-<a href ="mailto:"><img src="https://github.com/madhurimarawat/Machine-Learning-Using-Python/assets/105432776/b6a0873a-e961-42c0-8fbf-ab65828c961a" height=35 width=30 title="Mail Illustration" alt="Mail Illustration📫" > </a><br><br>
-- 😄 Pronouns: He/Him.<br><br>
-- ⚡ Fun fact: I enjoy problem-solving and exploring new datasets in my free time! <br><br>
-- 💡 Always open to discussing new ideas and collaborations in the data science domain! 📊✨
-
-<details open>
-<summary><h2> 🛠  Languages and Tools :</h2></summary>
-<br>
-Click on the icon to see the associated repository (if available)
-<br>
-
-### 📚  Languages :
-<br>
-
-<p>
-    <a href="https://github.com/Shravan4598"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&width=700&lines=Building+Production-Ready+ML+Systems;From+Data+Pipelines+to+Deployment;Machine+Learning+%7C+NLP+%7C+Analytics;Always+Learning+and+Building+%F0%9F%9A%80" />
 </p>
 
-### 📑  Frameworks & Libraries :
-<br>
-
-<p>
-    <a href="https://github.com/Shravan4598"><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="40" height="40"></a>
-    <a href="https://github.com/Shravan4598"><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"></a>
-    <a href="https://github.com/Shravan4598"><img src="https://github.com/madhurimarawat/madhurimarawat/assets/105432776/ec9a7987-9e5a-40ec-a806-66cdf2a9235d" title="Matplotlib" alt="Matplotlib" width="40" height="40"></a>
-    <a href="https://github.com/Shravan4598"><img src="https://user-images.githubusercontent.com/315810/92254613-279c8000-ee9f-11ea-9b73-5622a7d95f3f.png" title="Seaborn" alt="Seaborn" width="40" height="40"></a>
-    <a href="https://github.com/Shravan4598"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" title="Scikit-learn" alt="Scikit-learn" width="40" height="40"></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shravan4598&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-### 💻  Databases :
-<br>
+---
 
-<p>
-    <a href="https://github.com/Shravan4598"><img src="https://raw.githubusercontent.com/madhurimarawat/Badger-Icons/main/assets/databases/mysql/concept-logo-1-transparent.png" title="MySQL" alt="MySQL" width="40" height="40"> </a>
-    <a href="https://github.com/Shravan4598"><img src="https://raw.githubusercontent.com/Shravan4598/Weather-Dashboard/main/assets/mongodb-logo.png" title="MongoDB" alt="MongoDB" width="40" height="40"> </a>
-</p>
+## 👨‍💻 About Me
 
-### 🌟   Tools and Technologies :
-<br>
+- 🎓 B.Tech (Hons.) Data Science — **CSVTU, Bhilai**
+- 🧠 Focused on **Machine Learning, NLP & Data Analytics**
+- 🔭 Currently working on **Sensor Fault Detection System (APS)**
+- 🌱 Learning **MLOps & Model Deployment**
+- 💬 Ask me about **Python, ML, Data Analysis**
+- ⚡ Fun fact: **I love turning data into stories 📊**
 
-<p>
-    <a href="https://github.com/Shravan4598"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"></a>
-    <a href="https://github.com/Shravan4598"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"></a>
-    <a href="https://github.com/Shravan4598"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"></a>
-    <a href="https://github.com/Shravan4598"><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter Notebook" alt="Jupyter Notebook" width="40" height="40"> </a>
-</p>
+📧 **Email:** shravankumarpandey825412@gmail.com  
+🔗 **GitHub:** https://github.com/Shravan4598  
+🔗 **LinkedIn:** https://www.linkedin.com/in/shravan-kumar-pandey-309786309/  
+🔗 **LeetCode:** https://leetcode.com/u/shravankumarpandey/
 
-</details>
+---
 
-
-        
-<details>
-<summary> <h2> 📎📚  Projects :</h2></summary>
-<br>
-<p>Click on the thumbnail to See the Repository</p> <br>
-
-<table style="width: 100%;">
-    <tr>
-        <th style="width: 20%;">Feature ⚙️</th>
-        <th style="width: 80%;">Weather Dashboard ☀️</th>
-    </tr>
-    <tr>
-        <td style="width: 20%;"><strong>Preview</strong> 👁️</td>
-        <td style="width: 80%;">
-            <a href="https://github.com/Shravan4598/Weather-Dashboard/tree/main"><img src="https://github.com/Shravan4598/Weather-Dashboard/blob/main/assets/weather_dashboard_preview.png?raw=true" width="400" alt="Weather Dashboard" title="Weather Dashboard"></a>
-            <br>
-            A simple and interactive weather dashboard built using Python to fetch and display current weather information.
-            <br>
-            🔗 Repository: <a href="https://github.com/Shravan4598/Weather-Dashboard/tree/main">https://github.com/Shravan4598/Weather-Dashboard/tree/main</a>
-        </td>
-    </tr>
-</table>
-
-<br>
-
-<table style="width: 100%;">
-    <tr>
-        <th style="width: 20%;">Feature ⚙️</th>
-        <th style="width: 80%;">Iris Species Predictor 🌸</th>
-    </tr>
-    <tr>
-        <td style="width: 20%;"><strong>Preview</strong> 👁️</td>
-        <td style="width: 80%;">
-            <a href="https://github.com/Shravan4598/Iris_Species_Predictor"><img src="https://github.com/Shravan4598/Iris_Species_Predictor/blob/main/iris_flower_prediction.png?raw=true" width="400" alt="Iris Species Predictor" title="Iris Species Predictor"></a>
-            <br>
-            A machine learning project to predict the species of Iris flowers based on their features.
-            <br>
-            🔗 Repository: <a href="https://github.com/Shravan4598/Iris_Species_Predictor">https://github.com/Shravan4598/Iris_Species_Predictor</a>
-        </td>
-    </tr>
-</table>
-
-<br>
-
-<table style="width: 100%;">
-    <tr>
-        <th style="width: 20%;">Feature ⚙️</th>
-        <th style="width: 80%;">Sales Prediction App 📈</th>
-    </tr>
-    <tr>
-        <td style="width: 20%;"><strong>Preview</strong> 👁️</td>
-        <td style="width: 80%;">
-            <a href="https://github.com/Shravan4598/Sales_Prediction_App/tree/main"><img src="https://github.com/Shravan4598/Sales_Prediction_App/blob/main/sales_prediction_app_preview.png?raw=true" width="400" alt="Sales Prediction App" title="Sales Prediction App"></a>
-            <br>
-            A web application built with Streamlit to predict sales based on various features.
-            <br>
-            🔗 Repository: <a href="https://github.com/Shravan4598/Sales_Prediction_App/tree/main">https://github.com/Shravan4598/Sales_Prediction_App/tree/main</a>
-        </td>
-    </tr>
-</table>
-
-</details>
+## 🌐 Connect With Me
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=shravan4598&label=Profile%20views&color=0e75b6&style=flat" alt="shravan4598" />
-</p>
-
-- 🔭 I’m currently working on **Sensor Fault Detection in Air Pressure Systems of Heavy-Duty Vehicles**
-
-- 🌱 I’m currently learning **Machine Learning Algorithms and Visualization Techniques**
-
-- 👨‍💻 All of my projects are available at: [GitHub Portfolio](https://github.com/Shravan4598)
-
-- 📝 I regularly write project documentation and contribute to open-source repositories
-
-- 💬 Ask me about **Python, NumPy, Pandas, Machine Learning**
-
-- 📫 Reach me at: **shravankumarpandey825412@gmail.com**
-
-
----
-
-## 🎓 Certification
-
-
-**Certificate Name:** `Complete Data Science, Machine Learning, DL, NLP Bootcamp`
-
-**Certificate ID:** `UC-c2e77a53-0576-41d4-815b-89df85e1eef6`
-
-**Certificate URL:** 🔗 [View Certificate Here](https://ude.my/UC-c2e77a53-0576-41d4-815b-89df85e1eef6)
-
-**Instructor(s):** `Krish Naik, KRISHAI Technologies Private Limited`
-
-**Reference Number:** `0004`
-
----
-
-
-
-- ⚡ Fun fact: **I love turning data into stories! 📊**
-- ⚡ Fun fact: **Data Never Lies! 📊**
-
-
----
-
-## Connect with me:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shravan-kumar-pandey-309786309/)
-[![Gmail](https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail)](mailto:shravankumarpandey825412@gmail.com)
-
----
-
-## Languages and Tools:
-
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <a href="https://www.linkedin.com/in/shravan-kumar-pandey-309786309/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
   </a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
+  <a href="mailto:shravankumarpandey825412@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40"/>
   </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  <a href="https://github.com/Shravan4598">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
   </a>
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/matplotlib.svg" alt="matplotlib" width="40" height="40"/>
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" width="40" height="40"/>
+  <a href="https://leetcode.com/u/shravankumarpandey/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40"/>
   </a>
 </p>
 
 ---
 
-## 🧮 My LeetCode Stats:
+## 🧑‍💻 Programming Languages
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/shravankumarpandey?theme=dark&font=Baloo&ext=contest)](https://leetcode.com/u/shravankumarpandey/)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
+</p>
+
+---
+
+## 📊 Data Science & Visualization
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45"/>
+</p>
+
+---
+
+## 🤖 Machine Learning & NLP
+
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Artificial_intelligence_logo.svg" width="45"/>
+</p>
+
+---
+
+## 🗄 Databases
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/>
+</p>
+
+---
+
+## 🚀 Tools & Deployment
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="45"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🔧 Sensor Fault Prediction System (APS)
+- Cost-sensitive ML model for industrial sensor failures
+- Handles missing values & severe class imbalance
+- Focused on minimizing high-impact business errors
+- Tech: Python, Scikit-learn, MongoDB, FastAPI, AWS
+
+### 🏠 PropSight 360 — Real Estate Analytics Platform
+- Scraped data from 99acres
+- Feature engineering + luxury score
+- Regression + recommendation engine
+- Streamlit + AWS deployment
+
+### 📧 Email Spam Detection System
+- NLP based real-time spam classifier
+- TF-IDF + Logistic Regression
+- Streamlit deployment
+
+### 🎬 Movie Recommendation System
+- Content-based filtering using NLP
+- TMDB dataset
+- Streamlit web app
+
+---
+
+## 💼 Internship Experience
+
+### 🧠 Machine Learning Intern — Euron  
+**Dec 2025 – Present**
+- Built spam classifier & house price models
+- Improved preprocessing & pipelines
+- Worked on production-ready ML systems
+
+### 📊 Data Analyst Intern — Blue Planet Info Solution  
+**May 2025 – Nov 2025**
+- Data collection from 300+ colleges
+- Excel & PowerBI dashboards
+- Improved business productivity by 2%
+
+### ☁️ AI Azure Intern — Edunet Foundation  
+**Jun 2025 – Jul 2025**
+- Azure-based recommendation system
+- Improved accuracy by 15%
+
+---
+
+## 📜 Certifications
+
+- ✅ Data Science, ML, DL & NLP Bootcamp — Krish Naik (Udemy)
+- ✅ Job Ready Data Science — Code With Harry
+- ✅ TCS iON Certificate
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shravan4598&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shravan4598&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shravan4598&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### ⭐ If you like my work, consider following me and checking out my repositories!
+
 
 ---
 
