@@ -1,30 +1,29 @@
 <h1 align="center">Hi 👋, I'm Shravan Kumar Pandey</h1>
-<h3 align="center">A passionate Data Science enthusiast from India</h3>
-
-
-<p align="center">
-  <a href = "https://madhurimarawat.github.io/NameBlock-Designer/"><img src = "https://github.com/Shravan4598/Shravan4598/blob/main/SHRAVAN%20KUMAR%20PANDEY_NameBlock.png" title = "NameBlock" alt = "NameBlock"></a>
-</p>
-
-<p align="center">
-    <a 
-        <img src="https://raw.githubusercontent.com/madhurimarawat/Badger-Icons/main/assets/job_roles/data_scientist/concept-icon-3-transparent.png" title="Transparent Icon for Data Scientist (Badger-Icons)" alt="concept-icon-3-transparent.png" width="300" height="300">
-    </a>
-  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/main/dino.gif" height="250" width="250" title="Professional Male Programmer" alt="Professional Male Programmer">
-
-</p>
-
-
-
-<h1 align="center">Hi 👋, I'm Shravan Kumar Pandey</h1>
 <h3 align="center">Data Science Enthusiast | B.Tech (Hons.) Data Science Student 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&width=700&lines=Building+Production-Ready+ML+Systems;From+Data+Pipelines+to+Deployment;Machine+Learning+%7C+NLP+%7C+Analytics;Always+Learning+and+Building+%F0%9F%9A%80" />
+  <a href="https://madhurimarawat.github.io/NameBlock-Designer/">
+    <img src="https://github.com/Shravan4598/Shravan4598/blob/main/SHRAVAN%20KUMAR%20PANDEY_NameBlock.png" title="NameBlock" alt="NameBlock">
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shravan4598&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://raw.githubusercontent.com/madhurimarawat/Badger-Icons/main/assets/job_roles/data_scientist/concept-icon-3-transparent.png" title="Data Scientist" alt="Data Scientist Icon" width="150" height="150">
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/main/dino.gif" height="150" width="150" title="Dino" alt="Dino">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&width=700&lines=Building+Production-Ready+ML+Systems;From+Data+Pipelines+to+Deployment;Machine+Learning+%7C+NLP+%7C+Analytics;Always+Learning+and+Building+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://shravan-kumar-pandey-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-blue?style=for-the-badge&logo=vercel" alt="Portfolio" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shravan4598&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -39,26 +38,29 @@
 - ⚡ Fun fact: **I love turning data into stories 📊**
 
 📧 **Email:** shravankumarpandey825412@gmail.com  
-🔗 **GitHub:** https://github.com/Shravan4598  
-🔗 **LinkedIn:** https://www.linkedin.com/in/shravan-kumar-pandey-309786309/  
-🔗 **LeetCode:** https://leetcode.com/u/shravankumarpandey/
+🔗 **Portfolio:** [shravan-kumar-pandey-portfolio.vercel.app](https://shravan-kumar-pandey-portfolio.vercel.app/)  
+🔗 **LinkedIn:** [Shravan Kumar Pandey](https://www.linkedin.com/in/shravan-kumar-pandey-309786309/)  
+🔗 **LeetCode:** [shravankumarpandey](https://leetcode.com/u/shravankumarpandey/)
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="left">
+  <a href="https://shravan-kumar-pandey-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" height="30"/>
+  </a>
   <a href="https://www.linkedin.com/in/shravan-kumar-pandey-309786309/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
   </a>
   <a href="mailto:shravankumarpandey825412@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
   </a>
   <a href="https://github.com/Shravan4598">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="30"/>
   </a>
   <a href="https://leetcode.com/u/shravankumarpandey/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="30"/>
   </a>
 </p>
 
@@ -67,9 +69,9 @@
 ## 🧑‍💻 Programming Languages
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" title="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" title="Java"/>
 </p>
 
 ---
@@ -77,11 +79,11 @@
 ## 📊 Data Science & Visualization
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="45"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" title="Numpy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" title="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45" title="Matplotlib"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="45" title="Seaborn"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" title="Scikit-Learn"/>
 </p>
 
 ---
@@ -89,7 +91,7 @@
 ## 🤖 Machine Learning & NLP
 
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Artificial_intelligence_logo.svg" width="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Artificial_intelligence_logo.svg" width="45" title="AI"/>
 </p>
 
 ---
@@ -97,8 +99,8 @@
 ## 🗄 Databases
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" title="MongoDB"/>
 </p>
 
 ---
@@ -106,12 +108,12 @@
 ## 🚀 Tools & Deployment
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" title="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" title="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" title="Jupyter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" title="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="45" title="AWS"/>
 </p>
 
 ---
@@ -122,23 +124,23 @@
 - Cost-sensitive ML model for industrial sensor failures
 - Handles missing values & severe class imbalance
 - Focused on minimizing high-impact business errors
-- Tech: Python, Scikit-learn, MongoDB, FastAPI, AWS
+- **Tech:** Python, Scikit-learn, MongoDB, FastAPI, AWS
 
 ### 🏠 PropSight 360 — Real Estate Analytics Platform
 - Scraped data from 99acres
 - Feature engineering + luxury score
 - Regression + recommendation engine
-- Streamlit + AWS deployment
+- **Tech:** Streamlit, AWS deployment
 
 ### 📧 Email Spam Detection System
 - NLP based real-time spam classifier
 - TF-IDF + Logistic Regression
-- Streamlit deployment
+- **Tech:** Streamlit deployment
 
 ### 🎬 Movie Recommendation System
 - Content-based filtering using NLP
 - TMDB dataset
-- Streamlit web app
+- **Tech:** Streamlit web app
 
 ---
 
@@ -165,38 +167,28 @@
 
 ## 📜 Certifications
 
-- ✅ Data Science, ML, DL & NLP Bootcamp — Krish Naik (Udemy)
-- ✅ Job Ready Data Science — Code With Harry
-- ✅ TCS iON Certificate
+- ✅ **Data Science, ML, DL & NLP Bootcamp** — Krish Naik (Udemy)
+- ✅ **Job Ready Data Science** — Code With Harry
+- ✅ **TCS iON Certificate**
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shravan4598&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shravan4598&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shravan4598&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shravan4598&theme=tokyonight" alt="Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shravan4598&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shravan4598&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
-### ⭐ If you like my work, consider following me and checking out my repositories!
-
-
----
-
-## 📊 GitHub Stats:
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=shravan4598&show_icons=true&locale=en" alt="shravan4598" />
-</p>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com
+  <b>⭐ If you like my work, consider following me and checking out my repositories!</b>
+</p>
