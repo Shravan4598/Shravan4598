@@ -40,8 +40,9 @@
 📧 **Email:** shravankumarpandey825412@gmail.com  
 🔗 **Portfolio:** [shravan-kumar-pandey-portfolio.vercel.app](https://shravan-kumar-pandey-portfolio.vercel.app/)  
 🔗 **LinkedIn:** [Shravan Kumar Pandey](https://www.linkedin.com/in/shravan-kumar-pandey-309786309/)  
-🔗 **LeetCode:** [shravankumarpandey](https://leetcode.com/u/shravankumarpandey/)
-🔗 **Kaggle:** [Shravan_Kumar_Pandey](https://www.kaggle.com/shravankumarpandey)
+🔗 **LeetCode:** [shravankumarpandey](https://leetcode.com/u/shravankumarpandey/)       
+🔗 **Kaggle:** [Kaggle](https://www.kaggle.com/shravankumarpandey)
+
 ---
 
 ## 🌐 Connect With Me
