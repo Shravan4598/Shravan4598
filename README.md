@@ -67,19 +67,18 @@
 
 ---
 
-## 🧑‍💻 Programming Languages
+## 👨‍💻 Programming
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" title="Python"/>
-  
 </p>
 
 ---
 
-## 📊 Data Science & Visualization
+## 📊 Data Science & Analytics
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" title="Numpy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" title="NumPy"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" title="Pandas"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45" title="Matplotlib"/>
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="45" title="Seaborn"/>
@@ -88,14 +87,58 @@
 
 ---
 
-## 🤖 Machine Learning & NLP
+## 🤖 Machine Learning & Deep Learning
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45" title="TensorFlow"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45" title="PyTorch"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="45" title="Keras"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="45" title="OpenCV"/>
+  <img src="https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/xgboost.png" width="45" title="XGBoost"/>
 </p>
+
+---
+
+## 🧠 Generative AI & LLM
+
+<p>
+  <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/favicon.ico" width="45" title="LangChain"/>
+  <img src="https://raw.githubusercontent.com/langchain-ai/langgraph/main/docs/static/img/favicon.ico" width="45" title="LangGraph"/>
+  <img src="https://raw.githubusercontent.com/langchain-ai/langsmith-sdk/main/docs/langsmith_thumbnail.png" width="45" title="LangSmith"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg" width="45" title="Hugging Face"/>
+  <img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" width="45" title="Google Gemini"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" width="60" title="OpenAI"/>
+  <img src="https://ollama.com/public/ollama.png" width="45" title="Ollama"/>
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="45" title="Transformers"/>
+</p>
+
+---
+
+## 📚 Retrieval-Augmented Generation (RAG)
+
+<p>
+  <img src="https://avatars.githubusercontent.com/u/121387862?s=200&v=4" width="45" title="ChromaDB"/>
+  <img src="https://raw.githubusercontent.com/facebookresearch/faiss/main/logo.png" width="45" title="FAISS"/>
+  <img src="https://img.icons8.com/fluency/48/database.png" width="45" title="Vector Databases"/>
+  <img src="https://img.icons8.com/fluency/48/node.png" width="45" title="Embeddings"/>
+  <img src="https://img.icons8.com/fluency/48/idea.png" width="45" title="Prompt Engineering"/>
+</p>
+
+---
+
+## ⚙️ MLOps & Deployment
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" title="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45" title="FastAPI"/>
+  <img src="https://raw.githubusercontent.com/streamlit/streamlit/develop/frontend/public/favicon.png" width="45" title="Streamlit"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" title="GitHub"/>
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="45" title="AWS"/>
+  <img src="https://www.vectorlogo.zone/logos/mlflow/mlflow-icon.svg" width="45" title="MLflow"/>
+</p>
+
+---
 
 ## 🗄 Databases
 
@@ -106,42 +149,69 @@
 
 ---
 
-## 🚀 Tools & Deployment
+## 🛠 Development Tools
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" title="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" title="VS Code"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" title="Jupyter"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" title="Docker"/>
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="45" title="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" title="Jupyter Notebook"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" title="Postman"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" title="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="45" title="Anaconda"/>
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔧 Sensor Fault Prediction System (APS)
-- Cost-sensitive ML model for industrial sensor failures
-- Handles missing values & severe class imbalance
-- Focused on minimizing high-impact business errors
-- **Tech:** Python, Scikit-learn, MongoDB, FastAPI, AWS
+### 🏠 PropSight360: Real Estate Intelligence Platform
 
-### 🏠 PropSight 360 — Real Estate Analytics Platform
-- Scraped data from 99acres
-- Feature engineering + luxury score
-- Regression + recommendation engine
-- **Tech:** Streamlit, AWS deployment
+An end-to-end AI-powered real estate analytics platform that predicts property prices, analyzes market trends, recommends similar properties, and visualizes geo-based insights using interactive dashboards.
 
-### 📧 Email Spam Detection System
-- NLP based real-time spam classifier
-- TF-IDF + Logistic Regression
-- **Tech:** Streamlit deployment
+**Highlights:**
+- Web scraping from 99acres
+- Data cleaning & feature engineering
+- Price prediction model
+- Recommendation engine
+- Interactive analytics dashboard
+- Streamlit deployment
 
-### 🎬 Movie Recommendation System
-- Content-based filtering using NLP
-- TMDB dataset
-- **Tech:** Streamlit web app
+**Tech Stack:** Python, Pandas, NumPy, Scikit-learn, XGBoost, BeautifulSoup, Streamlit
+
+---
+
+### 🏭 Sensor Fault Detection System (APS)
+
+A production-ready machine learning system that predicts industrial sensor failures using cost-sensitive learning and robust preprocessing techniques.
+
+**Highlights:**
+- Missing value handling
+- Severe class imbalance handling
+- SMOTE
+- RobustScaler
+- Cost-sensitive prediction
+- Model deployment pipeline
+
+**Tech Stack:** Python, Scikit-learn, XGBoost, MongoDB, FastAPI, AWS
+
+---
+
+### 🤖 AI Chatbot with RAG & LangGraph
+
+An intelligent conversational AI chatbot powered by Retrieval-Augmented Generation (RAG), LangChain, LangGraph, and Large Language Models that answers questions using custom knowledge bases.
+
+**Highlights:**
+- LangChain-based pipeline
+- LangGraph workflow orchestration
+- RAG pipeline
+- ChromaDB / FAISS vector storage
+- Google Gemini / LLM integration
+- Prompt engineering
+- Document loader
+- Embeddings
+- Conversation memory
+- Agentic workflow
+
+**Tech Stack:** Python, LangChain, LangGraph, LangSmith, Google Gemini, ChromaDB, FAISS, Streamlit
 
 ---
 
@@ -168,9 +238,9 @@
 
 ## 📜 Certifications
 
-- ✅ **Data Science, ML, DL & NLP Bootcamp** — Krish Naik (Udemy)
-- ✅ **Job Ready Data Science** — Code With Harry
-- ✅ **TCS iON Certificate**
+-  **Data Science, ML, DL & NLP Bootcamp** — Krish Naik (Udemy)
+-  **Job Ready Data Science** — Code With Harry
+-  **TCS iON Certificate**
 
 ---
 
