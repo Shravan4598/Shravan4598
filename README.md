@@ -101,27 +101,48 @@
 
 ## 🧠 Generative AI & LLM
 
-<p>
-  <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/favicon.ico" width="45" title="LangChain"/>
-  <img src="https://raw.githubusercontent.com/langchain-ai/langgraph/main/docs/static/img/favicon.ico" width="45" title="LangGraph"/>
-  <img src="https://raw.githubusercontent.com/langchain-ai/langsmith-sdk/main/docs/langsmith_thumbnail.png" width="45" title="LangSmith"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg" width="45" title="Hugging Face"/>
+<p align="left">
+  <!-- LangChain -->
+  <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="45" title="LangChain"/>
+
+  <!-- LangGraph -->
+  <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="45" title="LangGraph"/>
+
+  <!-- LangSmith -->
+  <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="45" title="LangSmith"/>
+
+  <!-- Hugging Face -->
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="45" title="Hugging Face"/>
+
+  <!-- Google Gemini -->
   <img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" width="45" title="Google Gemini"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" width="60" title="OpenAI"/>
+
+  <!-- OpenAI -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" width="45" title="OpenAI"/>
+
+  <!-- Ollama -->
   <img src="https://ollama.com/public/ollama.png" width="45" title="Ollama"/>
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="45" title="Transformers"/>
 </p>
 
 ---
 
 ## 📚 Retrieval-Augmented Generation (RAG)
 
-<p>
+<p align="left">
+
+  <!-- ChromaDB -->
   <img src="https://avatars.githubusercontent.com/u/121387862?s=200&v=4" width="45" title="ChromaDB"/>
-  <img src="https://raw.githubusercontent.com/facebookresearch/faiss/main/logo.png" width="45" title="FAISS"/>
-  <img src="https://img.icons8.com/fluency/48/database.png" width="45" title="Vector Databases"/>
-  <img src="https://img.icons8.com/fluency/48/node.png" width="45" title="Embeddings"/>
-  <img src="https://img.icons8.com/fluency/48/idea.png" width="45" title="Prompt Engineering"/>
+
+
+  <!-- Embeddings -->
+  <img src="https://img.icons8.com/color/48/artificial-intelligence.png" width="45" title="Embeddings"/>
+
+  <!-- Vector DB -->
+  <img src="https://img.icons8.com/color/48/database.png" width="45" title="Vector Database"/>
+
+  <!-- Prompt Engineering -->
+  <img src="https://img.icons8.com/color/48/chatgpt.png" width="45" title="Prompt Engineering"/>
+
 </p>
 
 ---
@@ -131,11 +152,9 @@
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" title="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45" title="FastAPI"/>
-  <img src="https://raw.githubusercontent.com/streamlit/streamlit/develop/frontend/public/favicon.png" width="45" title="Streamlit"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" title="GitHub"/>
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="45" title="AWS"/>
-  <img src="https://www.vectorlogo.zone/logos/mlflow/mlflow-icon.svg" width="45" title="MLflow"/>
 </p>
 
 ---
@@ -155,7 +174,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" title="VS Code"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" title="Jupyter Notebook"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" title="Postman"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" title="Linux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="45" title="Anaconda"/>
 </p>
 
