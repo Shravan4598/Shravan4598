@@ -1,100 +1,151 @@
-<h1 align="center">Hi 👋, I'm Shravan Kumar Pandey</h1>
-<h3 align="center">Data Science Enthusiast | B.Tech (Hons.) Data Science Student 🇮🇳</h3>
+<h1 align="center">
+  Hi 👋, I'm <a href="https://github.com/Shravan4598">Shravan Kumar Pandey</a>
+</h1>
+
+<h3 align="center">
+Data Science | Machine Learning | Generative AI | Python Developer 🇮🇳
+</h3>
 
 <p align="center">
-  <a href="https://madhurimarawat.github.io/NameBlock-Designer/">
-    <img src="https://github.com/Shravan4598/Shravan4598/blob/main/SHRAVAN%20KUMAR%20PANDEY_NameBlock.png" title="NameBlock" alt="NameBlock">
-  </a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Data+Science+Enthusiast;Machine+Learning+Engineer;Generative+AI+Developer;Python+Developer;Building+Production+Ready+AI+Applications;Always+Learning+Something+New+🚀" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Data Scientist" width="150" height="150" />
-  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/main/dino.gif" height="150" width="150" title="Dino" alt="Dino">
+<img src="https://github.com/Shravan4598/Shravan4598/blob/main/SHRAVAN%20KUMAR%20PANDEY_NameBlock.png" width="700">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&width=700&lines=Building+Production-Ready+ML+Systems;From+Data+Pipelines+to+Deployment;Machine+Learning+%7C+NLP+%7C+Analytics;Always+Learning+and+Building+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" width="140">
+
+<img src="https://raw.githubusercontent.com/saadeghi/saadeghi/main/dino.gif" width="150">
 </p>
 
 <p align="center">
-  <a href="https://shravan-kumar-pandey-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-blue?style=for-the-badge&logo=vercel" alt="Portfolio" />
-  </a>
+
+<a href="https://shravan-kumar-pandey-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/🌐Portfolio-Visit-blue?style=for-the-badge">
+</a>
+
+<a href="https://www.linkedin.com/in/shravan-kumar-pandey-309786309/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="mailto:shravankumarpandey825412@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://leetcode.com/u/shravankumarpandey/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
+</a>
+
+<a href="https://www.kaggle.com/shravankumarpandey">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white">
+</a>
+
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shravan4598&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Shravan4598&label=Profile+Views&color=0e75b6&style=for-the-badge">
+<img src="https://img.shields.io/github/followers/Shravan4598?style=for-the-badge">
+<img src="https://img.shields.io/github/stars/Shravan4598?style=for-the-badge">
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 💫 About Me
 
-- 🎓 B.Tech (Hons.) Data Science — **CSVTU, Bhilai**
-- 🧠 Focused on **Machine Learning, NLP & Data Analytics**
-- 🔭 Currently working on **Sensor Fault Detection System (APS)**
-- 🌱 Learning **MLOps & Model Deployment**
-- 💬 Ask me about **Python, ML, Data Analysis**
-- ⚡ Fun fact: **I love turning data into stories 📊**
+<img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-📧 **Email:** shravankumarpandey825412@gmail.com  
-🔗 **Portfolio:** [shravan-kumar-pandey-portfolio.vercel.app](https://shravan-kumar-pandey-portfolio.vercel.app/)  
-🔗 **LinkedIn:** [Shravan Kumar Pandey](https://www.linkedin.com/in/shravan-kumar-pandey-309786309/)  
-🔗 **LeetCode:** [shravankumarpandey](https://leetcode.com/u/shravankumarpandey/)       
-🔗 **Kaggle:** [Kaggle](https://www.kaggle.com/shravankumarpandey)
+🎓 B.Tech (Hons.) Computer Science (Data Science)
+
+🏫 CSVTU Bhilai
+
+💡 Passionate about Artificial Intelligence, Machine Learning and Data Science
+
+🌱 Currently learning
+
+- MLOps
+- LLM Engineering
+- Agentic AI
+- LangGraph
+- RAG Systems
+
+💬 Ask me about
+
+- Python
+- Machine Learning
+- Data Analysis
+- Streamlit
+- LangChain
+- Generative AI
+
+⚡ Fun Fact
+
+> I love transforming raw data into intelligent products.
 
 ---
 
-## 🌐 Connect With Me
+# 🌍 Connect With Me
 
 <p align="left">
-  <a href="https://shravan-kumar-pandey-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" height="30"/>
-  </a>
-  <a href="https://www.linkedin.com/in/shravan-kumar-pandey-309786309/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
-  </a>
-  <a href="mailto:shravankumarpandey825412@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
-  </a>
-  <a href="https://github.com/Shravan4598">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="30"/>
-  </a>
-  <a href="https://leetcode.com/u/shravankumarpandey/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="30"/>
-  </a>
+
+<a href="https://shravan-kumar-pandey-portfolio.vercel.app/">
+<img src="https://skillicons.dev/icons?i=vercel" height="45">
+</a>
+
+<a href="https://www.linkedin.com/in/shravan-kumar-pandey-309786309/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45">
+</a>
+
+<a href="mailto:shravankumarpandey825412@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45">
+</a>
+
+<a href="https://github.com/Shravan4598">
+<img src="https://skillicons.dev/icons?i=github" height="45">
+</a>
+
 </p>
 
 ---
+# 💻 Tech Stack
 
-## 👨‍💻 Programming
+## 👨‍💻 Programming Languages
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" title="Python"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,bash" />
 </p>
 
 ---
 
 ## 📊 Data Science & Analytics
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" title="NumPy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" title="Pandas"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45" title="Matplotlib"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="45" title="Seaborn"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" title="Scikit-Learn"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,tensorflow,pytorch" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LightGBM-9ACD32?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 </p>
 
 ---
 
 ## 🤖 Machine Learning & Deep Learning
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45" title="TensorFlow"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45" title="PyTorch"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="45" title="Keras"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="45" title="OpenCV"/>
-  <img src="https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/xgboost.png" width="45" title="XGBoost"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,keras" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Regression-008080?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Classification-6A5ACD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Clustering-3CB371?style=for-the-badge"/>
 </p>
 
 ---
@@ -102,182 +153,598 @@
 ## 🧠 Generative AI & LLM
 
 <p align="left">
-  <!-- LangChain -->
-  <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="45" title="LangChain"/>
 
-  <!-- LangGraph -->
-  <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="45" title="LangGraph"/>
+<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
 
-  <!-- LangSmith -->
-  <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="45" title="LangSmith"/>
+<img src="https://img.shields.io/badge/LangGraph-4CAF50?style=for-the-badge"/>
 
-  <!-- Hugging Face -->
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="45" title="Hugging Face"/>
+<img src="https://img.shields.io/badge/LangSmith-0066CC?style=for-the-badge"/>
 
-  <!-- Google Gemini -->
-  <img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" width="45" title="Google Gemini"/>
+<img src="https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge"/>
 
-  <!-- OpenAI -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" width="45" title="OpenAI"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-FF9800?style=for-the-badge"/>
 
-  <!-- Ollama -->
-  <img src="https://ollama.com/public/ollama.png" width="45" title="Ollama"/>
+<img src="https://img.shields.io/badge/Embeddings-00BCD4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Vector%20Database-795548?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/FAISS-00599C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/ChromaDB-7E57C2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/OpenAI-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/>
+
 </p>
 
 ---
 
-## 📚 Retrieval-Augmented Generation (RAG)
+## 🚀 Frameworks & Web Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=fastapi,flask,streamlit" />
+</p>
+
+---
+
+## ⚙️ MLOps • Cloud • DevOps
 
 <p align="left">
 
-  <!-- ChromaDB -->
-  <img src="https://avatars.githubusercontent.com/u/121387862?s=200&v=4" width="45" title="ChromaDB"/>
+<img src="https://skillicons.dev/icons?i=docker,git,github,aws" />
 
+</p>
 
-  <!-- Embeddings -->
-  <img src="https://img.icons8.com/color/48/artificial-intelligence.png" width="45" title="Embeddings"/>
+<p align="left">
 
-  <!-- Vector DB -->
-  <img src="https://img.icons8.com/color/48/database.png" width="45" title="Vector Database"/>
+<img src="https://img.shields.io/badge/Hugging%20Face%20Spaces-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 
-  <!-- Prompt Engineering -->
-  <img src="https://img.icons8.com/color/48/chatgpt.png" width="45" title="Prompt Engineering"/>
+<img src="https://img.shields.io/badge/Model%20Deployment-4CAF50?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/MLOps-1565C0?style=for-the-badge"/>
 
 </p>
 
 ---
 
-## ⚙️ MLOps & Deployment
+## 🗄️ Databases
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" title="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45" title="FastAPI"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" title="GitHub"/>
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="45" title="AWS"/>
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
+
 </p>
 
 ---
 
-## 🗄 Databases
+## 📈 Data Visualization
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" title="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" title="MongoDB"/>
+<p align="left">
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
 </p>
 
 ---
 
-## 🛠 Development Tools
+## 🛠️ Development Tools
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" title="VS Code"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" title="Jupyter Notebook"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" title="Postman"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="45" title="Anaconda"/>
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=vscode,anaconda,git,github,postman,jupyter,linux" />
+
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 📚 Currently Learning
 
-### 🏠 PropSight360: Real Estate Intelligence Platform
+<p align="left">
 
-An end-to-end AI-powered real estate analytics platform that predicts property prices, analyzes market trends, recommends similar properties, and visualizes geo-based insights using interactive dashboards.
+<img src="https://img.shields.io/badge/Agentic%20AI-7B1FA2?style=for-the-badge"/>
 
-**Highlights:**
-- Web scraping from 99acres
-- Data cleaning & feature engineering
-- Price prediction model
-- Recommendation engine
-- Interactive analytics dashboard
-- Streamlit deployment
+<img src="https://img.shields.io/badge/Multi%20Agent%20Systems-512DA8?style=for-the-badge"/>
 
-**Tech Stack:** Python, Pandas, NumPy, Scikit-learn, XGBoost, BeautifulSoup, Streamlit
+<img src="https://img.shields.io/badge/LangGraph-43A047?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/MLOps-1976D2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/System%20Design-455A64?style=for-the-badge"/>
+
+</p>
+
+---
+# 🚀 Featured Projects
 
 ---
 
-### 🏭 Sensor Fault Detection System (APS)
+## 🏠 PropSight360 — Real Estate Intelligence Platform
 
-A production-ready machine learning system that predicts industrial sensor failures using cost-sensitive learning and robust preprocessing techniques.
+<img align="right" width="320" src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge">
 
-**Highlights:**
-- Missing value handling
-- Severe class imbalance handling
-- SMOTE
-- RobustScaler
-- Cost-sensitive prediction
-- Model deployment pipeline
+### 📌 Overview
 
-**Tech Stack:** Python, Scikit-learn, XGBoost, MongoDB, FastAPI, AWS
+An AI-powered Real Estate Analytics Platform that predicts property prices, recommends similar properties, analyzes market trends, and provides interactive visualizations.
 
----
+### ✨ Key Features
 
-### 🤖 AI Chatbot with RAG & LangGraph
+- 🏘 Web Scraping from 99acres
+- 📊 Interactive Dashboard
+- 🤖 ML Price Prediction
+- 🧹 Data Cleaning Pipeline
+- 📍 Geo-based Analytics
+- 🔍 Similar Property Recommendation
+- 📈 Market Trend Analysis
 
-An intelligent conversational AI chatbot powered by Retrieval-Augmented Generation (RAG), LangChain, LangGraph, and Large Language Models that answers questions using custom knowledge bases.
+### 🛠 Tech Stack
 
-**Highlights:**
-- LangChain-based pipeline
-- LangGraph workflow orchestration
-- RAG pipeline
-- ChromaDB / FAISS vector storage
-- Google Gemini / LLM integration
-- Prompt engineering
-- Document loader
-- Embeddings
-- Conversation memory
-- Agentic workflow
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-8B4513?style=flat-square)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit)
 
-**Tech Stack:** Python, LangChain, LangGraph, LangSmith, Google Gemini, ChromaDB, FAISS, Streamlit
+🔗 **GitHub:** Coming Soon
+
+🌐 **Live Demo:** Coming Soon
 
 ---
 
-## 💼 Internship Experience
+## 🏭 APS Sensor Fault Detection System
 
-### 🧠 Machine Learning Intern — Euron  
-**Dec 2025 – Present**
-- Built spam classifier & house price models
-- Improved preprocessing & pipelines
-- Worked on production-ready ML systems
+<img align="right" width="320" src="https://img.shields.io/badge/Accuracy-94%25-brightgreen?style=for-the-badge">
 
-### 📊 Data Analyst Intern — Blue Planet Info Solution  
-**May 2025 – Nov 2025**
-- Data collection from 300+ colleges
-- Excel & PowerBI dashboards
-- Improved business productivity by 2%
+### 📌 Overview
 
-### ☁️ AI Azure Intern — Edunet Foundation  
-**Jun 2025 – Jul 2025**
-- Azure-based recommendation system
-- Improved accuracy by 15%
+A production-ready Machine Learning system for detecting industrial sensor failures using cost-sensitive learning and advanced preprocessing techniques.
+
+### ✨ Key Features
+
+- ✅ Missing Value Handling
+- ⚖️ Cost-sensitive Learning
+- 📊 RobustScaler
+- 🧠 XGBoost Model
+- 🔄 SMOTE Balancing
+- 🚀 FastAPI Deployment
+- ☁ AWS Ready
+
+### 🛠 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws)
+
+🔗 **GitHub:** Coming Soon
+
+🌐 **Live Demo:** Coming Soon
 
 ---
 
-## 📜 Certifications
+## 🤖 AI Chatbot using LangGraph & RAG
 
--  **Data Science, ML, DL & NLP Bootcamp** — Krish Naik (Udemy)
--  **Job Ready Data Science** — Code With Harry
--  **TCS iON Certificate**
+<img align="right" width="320" src="https://img.shields.io/badge/GenAI-Agentic%20AI-blueviolet?style=for-the-badge">
+
+### 📌 Overview
+
+A Retrieval-Augmented Generation (RAG) chatbot powered by LangChain, LangGraph, Google Gemini, and vector databases capable of answering questions from custom documents.
+
+### ✨ Key Features
+
+- 📄 PDF Question Answering
+- 🧠 LangGraph Workflow
+- 📚 RAG Pipeline
+- 💬 Conversation Memory
+- 🔍 Web Search Tool
+- 📂 ChromaDB / FAISS
+- 🤖 Google Gemini Integration
+
+### 🛠 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
+![LangChain](https://img.shields.io/badge/LangChain-black?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-green?style=flat-square)
+![Gemini](https://img.shields.io/badge/Google-Gemini-blue?style=flat-square)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-purple?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-orange?style=flat-square)
+![Streamlit](https://img.shields.io/badge/Streamlit-red?style=flat-square&logo=streamlit)
+
+🔗 **GitHub:** Coming Soon
+
+🌐 **Live Demo:** Coming Soon
 
 ---
 
-## 📊 GitHub Stats
+## 💱 AI Currency Converter
+
+<img align="right" width="320" src="https://img.shields.io/badge/LLM-Gemini-blue?style=for-the-badge">
+
+### 📌 Overview
+
+A smart currency converter that combines real-time exchange rates with Generative AI to answer finance-related questions and perform intelligent conversions.
+
+### ✨ Key Features
+
+- 🌍 Live Exchange Rates
+- 💬 AI Financial Assistant
+- 🤖 Gemini Integration
+- ⚡ Streamlit UI
+- 🔄 LangChain Support
+- 📊 Interactive Dashboard
+
+### 🛠 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
+![Streamlit](https://img.shields.io/badge/Streamlit-red?style=flat-square&logo=streamlit)
+![Gemini](https://img.shields.io/badge/Google-Gemini-blue?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-black?style=flat-square)
+
+🔗 **GitHub:** Coming Soon
+
+🌐 **Live Demo:** Coming Soon
+
+---
+
+## 📦 fraction-py
+
+<img align="right" width="320" src="https://img.shields.io/badge/PyPI-Open%20Source-blue?style=for-the-badge">
+
+### 📌 Overview
+
+A modern Python Fraction library designed to provide immutable rational numbers with rich operator overloading, compatibility with Python's numeric tower, and production-ready packaging.
+
+### ✨ Key Features
+
+- ➕ Arithmetic Operations
+- ⚡ Immutable Objects
+- 🎯 Type Hints
+- 🧪 Unit Tested
+- 📦 PyPI Ready
+- 📚 Comprehensive Documentation
+
+### 🛠 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
+![PyPI](https://img.shields.io/badge/PyPI-3775A9?style=flat-square&logo=pypi)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest)
+![Mypy](https://img.shields.io/badge/Mypy-2E6DB4?style=flat-square)
+
+🔗 **GitHub:** https://github.com/Shravan4598/fraction
+
+📦 **PyPI:** Coming Soon
+
+---
+# 💼 Internship Experience
+
+---
+
+## 🧠 Machine Learning Intern
+### 🏢 Euron
+
+📅 **Duration:** December 2025 – Present
+
+### 🚀 Responsibilities
+
+- 🤖 Developed Machine Learning models for real-world business problems.
+- 📊 Built Spam Email Classification systems.
+- 🏠 Worked on House Price Prediction models.
+- 🧹 Performed Data Cleaning, Feature Engineering, and Model Evaluation.
+- ⚙️ Improved ML pipelines for production-ready deployment.
+- 📈 Enhanced model accuracy through hyperparameter tuning.
+
+**Tech Stack**
+
+`Python` `Pandas` `NumPy` `Scikit-Learn` `XGBoost`
+
+---
+
+## 📊 Data Analyst Intern
+### 🏢 Blue Planet Info Solution
+
+📅 **Duration:** May 2025 – November 2025
+
+### 🚀 Responsibilities
+
+- 📋 Collected and processed data from 300+ colleges.
+- 📊 Built Excel dashboards for business reporting.
+- 📈 Created Power BI visualizations for management.
+- 🧹 Automated repetitive reporting tasks.
+- 📉 Improved productivity through data-driven insights.
+
+**Tech Stack**
+
+`Excel` `Power BI` `Python` `SQL`
+
+---
+
+## ☁️ AI Azure Intern
+### 🏢 Edunet Foundation
+
+📅 **Duration:** June 2025 – July 2025
+
+### 🚀 Responsibilities
+
+- 🤖 Developed an AI Recommendation System.
+- ☁️ Worked with Microsoft Azure AI Services.
+- 📊 Improved recommendation accuracy.
+- 📈 Learned cloud-based AI deployment.
+
+**Tech Stack**
+
+`Azure` `Python` `Machine Learning`
+
+---
+
+## 🏢 Machine Learning Intern
+### Shamgar Software Solutions
+
+📅 **Duration:** November 2025 – May 2026
+
+### 🚀 Responsibilities
+
+- 🏠 Developed **PropSight360**, an AI-powered Real Estate Analytics Platform.
+- 📊 Built Machine Learning models for Property Price Prediction.
+- 🏘️ Performed Web Scraping using BeautifulSoup.
+- 📈 Conducted Data Cleaning and Feature Engineering.
+- 🤖 Developed Recommendation Engine.
+- 🌐 Built Streamlit Dashboard.
+- 🚀 Deployed ML applications.
+
+**Tech Stack**
+
+`Python` `Pandas` `Scikit-Learn` `XGBoost` `BeautifulSoup` `Streamlit`
+
+---
+
+# 🏆 Certifications
+
+| Certification | Provider |
+|---------------|----------|
+| 🎓 Data Science, Machine Learning, Deep Learning & NLP Bootcamp | Udemy (Krish Naik) |
+| 💻 Job Ready Data Science | CodeWithHarry |
+| ☁ Microsoft Azure AI Internship | Edunet Foundation |
+| 🏅 TCS iON Career Edge | TCS iON |
+| 🤖 Lenovo LEAP NextGen Scholar – Generative AI & Agentic Systems Engineering | AICTE |
+
+---
+
+# 🏅 Achievements
+
+🏆 Built multiple end-to-end Machine Learning projects.
+
+🚀 Developed production-ready AI applications using Streamlit.
+
+🤖 Built RAG & LangGraph-based AI Chatbot.
+
+📊 Developed Industrial Sensor Fault Detection System.
+
+🏠 Developed AI-powered Real Estate Analytics Platform.
+
+📦 Published Open Source Python package **fraction-py**.
+
+🌐 Built and deployed multiple web applications.
+
+---
+
+# 📈 What I'm Currently Working On
+
+- 🚀 Publishing **fraction-py** on PyPI
+- 🤖 Agentic AI Applications
+- 📚 LangGraph Workflows
+- 🧠 Multi-Agent Systems
+- 📦 MLOps
+- ☁ Cloud Deployment
+- 🔥 Open Source Contributions
+
+---
+
+# 🎯 2026 Goals
+
+- ⭐ Reach 500+ GitHub Followers
+- 📦 Publish multiple Python packages
+- 🤖 Contribute to Open Source AI projects
+- 🏆 Secure a Data Scientist / ML Engineer role
+- 📚 Master Agentic AI & MLOps
+- 🌍 Build impactful AI products
+
+---
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shravan4598&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Shravan4598&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shravan4598&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shravan4598&theme=tokyonight" alt="Streak Stats" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shravan4598&layout=compact&theme=tokyonight" alt="Top Languages" />
+<img width="70%" src="https://streak-stats.demolab.com?user=Shravan4598&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
+# 🏆 GitHub Trophies
+
 <p align="center">
-  <b>⭐ If you like my work, consider following me and checking out my repositories!</b>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Shravan4598&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
 </p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shravan4598&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 📋 GitHub Profile Summary
+
+<p align="center">
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shravan4598&theme=tokyonight"/>
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shravan4598&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shravan4598&theme=tokyonight"/>
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shravan4598&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shravan4598&theme=tokyonight&utcOffset=5.5"/>
+
+</p>
+
+---
+
+# 📅 Contribution Calendar
+
+<p align="center">
+
+<img src="https://ghchart.rshah.org/409EFF/Shravan4598" />
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Shravan4598/Shravan4598/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+
+</p>
+
+---
+
+# ⚡ Coding Activity
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Shravan4598&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+> **Note:** This card works only if you use **WakaTime** and connect it to GitHub.
+
+---
+
+# 📦 Open Source
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Open%20Source-Lover-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Python-Developer-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Data%20Science-Enthusiast-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-Engineer-red?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Generative%20AI-Explorer-purple?style=for-the-badge"/>
+
+</p>
+
+---
+# 🌟 Quote of the Day
+
+<p align="center">
+
+> **"Code is like humour. When you have to explain it, it's bad."**  
+> — Cory House
+
+</p>
+
+---
+
+# 🤝 Let's Connect & Collaborate
+
+I'm always interested in collaborating on:
+
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 📊 Data Science
+- 🚀 Generative AI
+- 📦 Open Source Projects
+- ☁️ MLOps
+- 🌐 Full Stack AI Applications
+
+If you have an interesting project, feel free to reach out!
+
+---
+
+# 💙 Support My Work
+
+If you like my projects, consider
+
+⭐ Starring my repositories
+
+🍴 Forking my projects
+
+👨‍💻 Following me on GitHub
+
+📢 Sharing my work with others
+
+---
+
+# 📫 Contact Me
+
+📧 **Email**
+
+**shravankumarpandey825412@gmail.com**
+
+🌐 **Portfolio**
+
+https://shravan-kumar-pandey-portfolio.vercel.app
+
+💼 **LinkedIn**
+
+https://linkedin.com/in/shravan-kumar-pandey-309786309
+
+💻 **GitHub**
+
+https://github.com/Shravan4598
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:5B42F3&height=120&section=footer"/>
+
+</p>
+
+<h3 align="center">
+
+⭐ Thanks for visiting my profile! ⭐
+
+Have a wonderful day! 😊
+
+</h3>
