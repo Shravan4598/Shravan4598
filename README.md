@@ -113,7 +113,7 @@ Data Science | Machine Learning | Generative AI | Python Developer 🇮🇳
 ## 👨‍💻 Programming Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,bash" />
+  <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
 ---
@@ -184,13 +184,6 @@ Data Science | Machine Learning | Generative AI | Python Developer 🇮🇳
 
 ---
 
-## 🚀 Frameworks & Web Development
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=fastapi,flask,streamlit" />
-</p>
-
----
 
 ## ⚙️ MLOps • Cloud • DevOps
 
@@ -230,10 +223,6 @@ Data Science | Machine Learning | Generative AI | Python Developer 🇮🇳
 
 <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
 </p>
 
 ---
@@ -242,25 +231,7 @@ Data Science | Machine Learning | Generative AI | Python Developer 🇮🇳
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=vscode,anaconda,git,github,postman,jupyter,linux" />
-
-</p>
-
----
-
-## 📚 Currently Learning
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/Agentic%20AI-7B1FA2?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Multi%20Agent%20Systems-512DA8?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/LangGraph-43A047?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/MLOps-1976D2?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/System%20Design-455A64?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=vscode,anaconda,git,github,jupyter,kaggle,google collab" />
 
 </p>
 
@@ -551,16 +522,6 @@ A modern Python Fraction library designed to provide immutable rational numbers 
 
 ---
 
-# 🎯 2026 Goals
-
-- ⭐ Reach 500+ GitHub Followers
-- 📦 Publish multiple Python packages
-- 🤖 Contribute to Open Source AI projects
-- 🏆 Secure a Data Scientist / ML Engineer role
-- 📚 Master Agentic AI & MLOps
-- 🌍 Build impactful AI products
-
----
 # 📊 GitHub Analytics
 
 <p align="center">
@@ -574,16 +535,6 @@ A modern Python Fraction library designed to provide immutable rational numbers 
 <p align="center">
 
 <img width="70%" src="https://streak-stats.demolab.com?user=Shravan4598&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Shravan4598&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </p>
 
@@ -625,15 +576,6 @@ A modern Python Fraction library designed to provide immutable rational numbers 
 
 ---
 
-# 📅 Contribution Calendar
-
-<p align="center">
-
-<img src="https://ghchart.rshah.org/409EFF/Shravan4598" />
-
-</p>
-
----
 
 # 🐍 Contribution Snake
 
@@ -645,106 +587,7 @@ A modern Python Fraction library designed to provide immutable rational numbers 
 
 ---
 
-# ⚡ Coding Activity
 
-<p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Shravan4598&theme=tokyonight&hide_border=true"/>
 
-</p>
 
-> **Note:** This card works only if you use **WakaTime** and connect it to GitHub.
-
----
-
-# 📦 Open Source
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Open%20Source-Lover-success?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Python-Developer-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Data%20Science-Enthusiast-orange?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Machine%20Learning-Engineer-red?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Generative%20AI-Explorer-purple?style=for-the-badge"/>
-
-</p>
-
----
-# 🌟 Quote of the Day
-
-<p align="center">
-
-> **"Code is like humour. When you have to explain it, it's bad."**  
-> — Cory House
-
-</p>
-
----
-
-# 🤝 Let's Connect & Collaborate
-
-I'm always interested in collaborating on:
-
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- 📊 Data Science
-- 🚀 Generative AI
-- 📦 Open Source Projects
-- ☁️ MLOps
-- 🌐 Full Stack AI Applications
-
-If you have an interesting project, feel free to reach out!
-
----
-
-# 💙 Support My Work
-
-If you like my projects, consider
-
-⭐ Starring my repositories
-
-🍴 Forking my projects
-
-👨‍💻 Following me on GitHub
-
-📢 Sharing my work with others
-
----
-
-# 📫 Contact Me
-
-📧 **Email**
-
-**shravankumarpandey825412@gmail.com**
-
-🌐 **Portfolio**
-
-https://shravan-kumar-pandey-portfolio.vercel.app
-
-💼 **LinkedIn**
-
-https://linkedin.com/in/shravan-kumar-pandey-309786309
-
-💻 **GitHub**
-
-https://github.com/Shravan4598
-
----
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:5B42F3&height=120&section=footer"/>
-
-</p>
-
-<h3 align="center">
-
-⭐ Thanks for visiting my profile! ⭐
-
-Have a wonderful day! 😊
-
-</h3>
